@@ -167,8 +167,6 @@
 
 **C) Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.**
 
-**0 Hz**
-
 **10 Hz**
 
 ![image](https://user-images.githubusercontent.com/105680588/185292519-a520c3ca-1909-4dd9-b642-75967c9e6c6b.png)
