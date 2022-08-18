@@ -51,7 +51,6 @@
 
 **A) Utilice el osciloscopio para observar el voltaje V0 variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los valores pico de las ondas observadas**
 
-**0 Hz**
 
 **10 Hz**
 
@@ -133,7 +132,6 @@
 
 **A) Utilice el osciloscopio para observar el voltaje V0 variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los valores pico de las ondas observadas**
 
-**0 Hz**
 
 **10 Hz**
 
@@ -246,6 +244,12 @@ El valor rms es el valor que tendrá una corriente continua y producirá la mism
 https://www.youtube.com/watch?v=l7ajAEnYBrgWX0I&b_channel=RubenBustos
 
 **7.9 Conclusiones**
+
+• La bobina y el capacitador están en un constante proceso de carga y descarga por lo que el voltaje mostrado en el osciloscopio se mantiene durante un largo periodo de tiempo.
+
+• Las bobinas y capacitadores tienen la misma cantidad de inductancia y capacitancia permitiéndoles asi conectarse en paralelo, de otro modo generan fuentes que no aprueban las leyes de Kirchhoff.
+
+• El equipo requerido para este laboratorio fue un multímetro para medir corriente y voltaje, también usamos un osciloscopio el cual se usa en la gráfica para representar la señal eléctrica, en este caso esto se hace a través de una gráfica que representa la diferencia de potencial.
 
 **8 Bibliografia**
 
