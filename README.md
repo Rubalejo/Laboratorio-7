@@ -113,13 +113,33 @@
 
 **10 Hz**
 
+![image](https://user-images.githubusercontent.com/105680588/185296433-a7a83760-0ba1-4fd0-94bc-983324cb30fb.png)
+
+3.14 V
+
 **50 Hz**
+
+![image](https://user-images.githubusercontent.com/105680588/185296500-139b8d9e-f75a-4e41-aa48-3d708cfaf045.png)
+
+1.55 V
 
 **100 Hz**
 
+![image](https://user-images.githubusercontent.com/105680588/185296571-ac09667e-3ec1-442c-8db4-6d72e07fd3a2.png)
+
+2.96 V
+
 **500 Hz**
 
+![image](https://user-images.githubusercontent.com/105680588/185296606-a659d370-1fd1-485f-83fe-c47947cf31d6.png)
+
+8.4 V
+
 **1000 Hz**
+
+![image](https://user-images.githubusercontent.com/105680588/185296657-79155ceb-8d86-49ab-9c79-365bff0e809a.png)
+
+9.52 V
 
 **B) Utilice un multímetro para medir el voltaje V0 variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.**
 
@@ -175,13 +195,24 @@
 
 **7.7. Preguntas**
 
-**1.-**¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+**1.-¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?**
 
-**2.-**¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+Una bobina en corriente continua se comporta como un cortocircuito y deja pasar la corriente a través de ella sin resistencia. Los condensadores en corriente continua actúan como acumuladores de carga.
 
-**3.-**¿Qué cree usted que ocurriría con el voltaje V0 y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+**2.-¿Cómo se comportan la bobina y el capacitor en corriente alterna?**
 
-**4.-**¿Qué son los valores eficaces de voltaje y corriente?
+Cuando se aplica un voltaje de CA a la bobina, se crea un campo magnético que cambia constantemente y, por lo tanto, también un voltaje inducido permanente opuesto al CA principal.
 
+**3.-¿Qué cree usted que ocurriría con el voltaje V0 y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?**
 
+si se usan dos capacitores con valores diferentes, uno es más grande o más pequeño que el otro, el voltaje y la corriente cambiarán un poco y se mantendrán constantes.
 
+**4.- ¿Qué son los valores eficaces de voltaje y corriente?**
+
+El valor rms es el valor que tendrá una corriente continua y producirá la misma potencia que dicha corriente alterna, es decir, si mides 5 voltios en una corriente alterna, ¿cuál es el valor medido de lo que dice el dispositivo? , esta en corriente alterna La onda transmite la misma potencia que una señal de 5 voltios en corriente continua. Por eso se usa rms, porque todas las fórmulas y cálculos también se usan en corriente alterna.
+
+**7.8 Video**
+
+**7.9 Conclusiones**
+
+**8 Bibliografia**
