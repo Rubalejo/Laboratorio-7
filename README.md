@@ -77,29 +77,53 @@
 
 **0 Hz**
 
+![image](https://user-images.githubusercontent.com/105680588/185299446-b6ed29c0-fc4e-48f2-9517-88e9903c3cd8.png)
+
 **10 Hz**
+
+![image](https://user-images.githubusercontent.com/105680588/185299369-8d7f29ad-900d-4064-b190-e1473e6bfbe6.png)
 
 **50 Hz**
 
+![image](https://user-images.githubusercontent.com/105680588/185299568-6119bb20-72ae-4dd9-ab2b-e2f73b6a1e2f.png)
+
 **100 Hz**
+
+![image](https://user-images.githubusercontent.com/105680588/185299695-51fd3d59-9d9c-4144-8f70-476a615da217.png)
 
 **500 Hz**
 
+![image](https://user-images.githubusercontent.com/105680588/185299749-d0b77312-47af-4d3a-bb52-345bbdbd6cc4.png)
+
 **1000 Hz**
+
+![image](https://user-images.githubusercontent.com/105680588/185300954-52d645dd-da04-4eed-8954-0f79bf93126a.png)
 
 **C) Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.**
 
 **0 Hz**
 
+![image](https://user-images.githubusercontent.com/105680588/185300347-465994c6-905a-48b3-88fe-57515df27d83.png)
+
 **10 Hz**
+
+![image](https://user-images.githubusercontent.com/105680588/185300415-9bd98cf0-4c1e-4797-ae28-5b18a1b24768.png)
 
 **50 Hz**
 
+![image](https://user-images.githubusercontent.com/105680588/185300599-cc4be3e0-d6bb-4f98-b52b-bbc1bf6be0c5.png)
+
 **100 Hz**
+
+![image](https://user-images.githubusercontent.com/105680588/185300659-cde920a0-6899-4b22-a885-9348e517412a.png)
 
 **500 Hz**
 
+![image](https://user-images.githubusercontent.com/105680588/185300811-bd34ab1a-dccf-45f8-9e2f-b221f131c2a3.png)
+
 **1000 Hz**
+
+![image](https://user-images.githubusercontent.com/105680588/185300893-f4466466-d710-4c85-899f-cd1675cff7cd.png)
 
 **7.5.3. Construya el circuito mostrado en la Figura 2**
 
@@ -214,3 +238,7 @@ El valor rms es el valor que tendrá una corriente continua y producirá la mism
 **7.9 Conclusiones**
 
 **8 Bibliografia**
+
+Circuit Simulator Online - DCACLab. (n.d.). Dcaclab.com. Retrieved August 18, 2022, from https://dcaclab.com/lab
+
+‌
