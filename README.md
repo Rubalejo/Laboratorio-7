@@ -243,7 +243,7 @@ El valor rms es el valor que tendrá una corriente continua y producirá la mism
 
 **7.8 Video**
 
-https://www.youtube.com/watch?v=l7nYBrgWX0I&b_channel=RubenBustos
+https://www.youtube.com/watch?v=l7ajAEnYBrgWX0I&b_channel=RubenBustos
 
 **7.9 Conclusiones**
 
