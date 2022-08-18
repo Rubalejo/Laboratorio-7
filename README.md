@@ -8,9 +8,36 @@
 
 **7.1.OBJETIVO DE LA PRÁCTICA**
 
+•	Verificar el Comportamiento de la bobina y el capacitor en circuitos DC.
+
+•	Verificar el comportamiento de la bobina y el capacitor en circuitos AC.
+
+•	Verificar las combinaciones serie y paralelo de bobinas y capacitores.
+
+•	Familiarizarse con el uso de instrumentos de medida.
+
 **7.2.OBJETIVO ESPECIFICO**
 
+•	Entender el uso de la bobina y el capacitor al momento de hacer circuitos eléctricos con su corriente alterna y continua, mediante el uso de simuladores web ("ACDLlab") para una buena aplicación del tema asignado.
+
+• Reconocer los instrumentos necesarios para su aplicacion.	
+
+• Explicar que es el inductor capacitor.
+
+• Analizar el comportamiento de la bobina y el capacitor en el circuito.
+
 **7.3. MARCO TEORICO**
+
+![image](https://user-images.githubusercontent.com/105680588/185294261-05bf4662-e2a4-44a2-9378-1837ff4ea15a.png)
+
+![image](https://user-images.githubusercontent.com/105680588/185294400-2ac98956-f612-4692-b549-1928dcff5a87.png)
+
+![image](https://user-images.githubusercontent.com/105680588/185294467-fdc1dd05-b15e-4af0-9440-16dbe3e5a1f8.png)
+
+![image](https://user-images.githubusercontent.com/105680588/185294514-262ed090-4b77-4d9b-b02b-f31fae534b9b.png)
+
+![image](https://user-images.githubusercontent.com/105680588/185294545-c74d9df9-2876-4f43-ac06-b6c00d067fff.png)
+
 
 **7.4. MATERIAL Y EQUIPO REQUERIDO**
 
