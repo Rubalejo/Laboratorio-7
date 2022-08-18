@@ -215,6 +215,14 @@
 
 **1.- Para cada Uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímeto.Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.**
 
+**FIGURA 1:**
+
+![image](https://user-images.githubusercontent.com/105680588/185301703-db9bb837-4a27-44a7-b308-ed4fdd6a049e.png)
+
+**FIGURA 2:**
+
+![image](https://user-images.githubusercontent.com/105680588/185301770-8d7f41f3-b234-435e-9a60-30816ace8183.png)
+
 **7.7. Preguntas**
 
 **1.-¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?**
@@ -234,6 +242,8 @@ si se usan dos capacitores con valores diferentes, uno es más grande o más peq
 El valor rms es el valor que tendrá una corriente continua y producirá la misma potencia que dicha corriente alterna, es decir, si mides 5 voltios en una corriente alterna, ¿cuál es el valor medido de lo que dice el dispositivo? , esta en corriente alterna La onda transmite la misma potencia que una señal de 5 voltios en corriente continua. Por eso se usa rms, porque todas las fórmulas y cálculos también se usan en corriente alterna.
 
 **7.8 Video**
+
+https://www.youtube.com/watch?v=l7nYBrgWX0I&b_channel=RubenBustos
 
 **7.9 Conclusiones**
 
